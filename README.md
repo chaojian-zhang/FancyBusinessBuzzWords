@@ -44,6 +44,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
   *  * "Hey buddy, try not to boil the ocean. A simple but elegant solution is all we need here."  
 
 ## C
+* **ChatGPT**
 * **Cycles**
   * "Good morning, thank you for keeping me updated on the project, but I don't have the cycles for you until the end of this month."
 * **(Open) Communicaiton**
