@@ -65,10 +65,12 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 * **Knowledge Elicitation**
   * def:  Knowledge Elicitation uses interviews to understand the needs and habits of subject matter experts. 
   
-
 ## L
 * **Lead User Observation**
   * def: Lead User Observation is a method that involves the observation or recording of experts performing specific tasks.
+
+## N
+* **Nvidia**
 
 ## P
 * **Propel**
@@ -78,7 +80,6 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 
 ## Q
 * **Quantitative Anlysis**
-
 
 ## S
 * **Synergies**
