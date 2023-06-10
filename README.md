@@ -71,6 +71,7 @@ This repository includes all the business buzzwords I hear in my lifetime. I hop
 
 ## N
 * **Nvidia**
+  * Nvidia is the new gold in artificial intelligence.
 
 ## P
 * **Propel**
